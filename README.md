@@ -10,3 +10,5 @@ Count words, characters(excluding `\n`, `comma`, `dot` and `space`) and lines(us
 Counting ends when getting character `#`.
 ###5. apprx_sol.c
 Get the approximate solution of non-linear equations using newton and bisection method.
+###6. integer_convert.c
+convert integer into string using recursion
