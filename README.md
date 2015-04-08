@@ -11,4 +11,6 @@ Counting ends when getting character `#`.
 ###5. apprx_sol.c
 Get the approximate solution of non-linear equations using newton and bisection method.
 ###6. integer_convert.c
-convert integer into string using recursion
+convert integer into string using recursion.
+###7. matrix_sum.c
+use a `pointer` to caculate the sum of all elements in a 3*3 matrix.
