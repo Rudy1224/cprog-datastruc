@@ -14,3 +14,5 @@ Get the approximate solution of non-linear equations using newton and bisection 
 convert integer into string using recursion.
 ###7. matrix_sum.c
 use a `pointer` to caculate the sum of all elements in a 3*3 matrix.
+###8. bubble_sort.c
+implementation of the bubble sort algorithm.
