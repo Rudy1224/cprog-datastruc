@@ -11,8 +11,10 @@ Counting ends when getting character `#`.
 ###5. apprx_sol.c
 Get the approximate solution of non-linear equations using newton and bisection method.
 ###6. integer_convert.c
-convert integer into string using recursion.
+Convert integer into string using recursion.
 ###7. matrix_sum.c
-use a `pointer` to caculate the sum of all elements in a 3*3 matrix.
+Use a `pointer` to caculate the sum of all elements in a 3*3 matrix.
 ###8. bubble_sort.c
-implementation of the bubble sort algorithm.
+Implementation of the bubble sort algorithm.
+###9. gpa_calc.c
+Write a program which stores 10 students' id, name and scores in decending order of their GPAs.
