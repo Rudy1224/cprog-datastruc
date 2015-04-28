@@ -2,7 +2,7 @@
 
 int ReverseInteger(int n){
 	int flag = 1, temp = 0;
-	unsigned long reversed = 0,max = 2147483647;
+	__int64 reversed = 0,max = 2147483647;
 	if (n<0){
 		flag = -1;
 		n = -n;
