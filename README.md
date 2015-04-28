@@ -18,3 +18,5 @@ Use a `pointer` to caculate the sum of all elements in a 3*3 matrix.
 Implementation of the bubble sort algorithm.
 ###9. gpa_calc.c
 Write a program which stores 10 students' id, name and scores in decending order of their GPAs.
+###10. reverse_integer.c
+Original Question from [LeetCode](https://leetcode.com/problems/reverse-integer/). Reverse an integer and try to avoid overflow at the same time.
