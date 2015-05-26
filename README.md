@@ -20,3 +20,9 @@ Implementation of the bubble sort algorithm.
 Write a program which stores 10 students' id, name and scores in decending order of their GPAs.
 ###10. reverse_integer.c
 Original Question from [LeetCode](https://leetcode.com/problems/reverse-integer/). Reverse an integer and try to avoid overflow at the same time.
+###11. stu_mgt
+Simple student management system using `linked list`.
+###12. SqQueue.c
+Simple sequential queue.
+###13. bTree.c
+Simple binary tree with in-order traverse function.
